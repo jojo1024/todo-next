@@ -6,7 +6,7 @@ require `node >= 18.17.0`
 <br>
 
 ### 1. Clone repository
-    git clone [https://github.com/spd-dev-team/x-server.git](https://github.com/jojo1024/todo-next.git)
+    git clone https://github.com/jojo1024/todo-next.git
 
 
 ### 2. Install dependencies
