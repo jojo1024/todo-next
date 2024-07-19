@@ -1,6 +1,6 @@
 import CustomForm from "@/components/CustomForm";
 import TaskList from "@/components/TaskList";
-import "./globals.css";
+import "../style/globals.css";
 import Link from "next/link";
 
 export default function Home() {
