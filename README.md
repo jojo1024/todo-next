@@ -18,8 +18,8 @@ npm i or yarn add (à la racicne du projet)
     yarn dev ou npm run dev 
 
 
-### La base données est dans le dossier database
-### N'oubliez pas de modofier les informations de connexion à la base de données dans le fichier .env
+### Database file is in database folder
+### Don't forget to change database connexion information in .env file
 
 
 
